@@ -19,7 +19,7 @@ const AddBudgetForm = () => {
     return (
         <div className="form-wrapper">
             <h2 className="h3">
-                Create budget
+                Create Budget
             </h2>
             <fetcher.Form
                 method="post"
