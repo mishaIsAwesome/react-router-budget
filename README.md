@@ -12,16 +12,16 @@ This small web application is made with React Router, utilizing its useful compo
 
 ## 🖼️ Screenshots
 #### Landing Page
-![login](https://github.com/user-attachments/assets/f24e93f6-d16b-474c-9aff-76d8cbd82c98)
+![login](public/screenshots/login.png)
 
 #### Home Page 
-![homepage](https://github.com/user-attachments/assets/00104b73-1f2b-4c7d-ae28-3f86d66b3f5d)
+![homepage](public/screenshots/homepage.png)
 
 #### Adding Budgets & Expenses
-![budgets and expenses](https://github.com/user-attachments/assets/dfb2f8f5-cc34-42ca-9f06-632acad899a4)
+![budgets and expenses](public/screenshots/budgets%20and%20expenses.png)
 
 #### Viewing Budget Page
-![budget page](https://github.com/user-attachments/assets/3214c89a-cfd9-45a8-9094-87811b0cf3ab)
+![budget page](public/screenshots/budget%20page.png)
 
 
 ## 📌 How to Use
